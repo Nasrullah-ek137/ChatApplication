@@ -1,4 +1,4 @@
-# Real-Time Chat Application
+# Real-Time Chat Application by using Django
 
 This repository contains a **Real-Time Chat Application** built with **Django** and the **WebSocket protocol**. The application enables instant communication between users, dynamic chat room creation, and seamless real-time message delivery, providing a modern and responsive chatting experience.
 
